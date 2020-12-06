@@ -1,0 +1,71 @@
+.text1
+{
+    font-size: 100px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: #1a1a1a;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1280px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.text2
+{
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    color: #1a1a1a;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    left: 0;
+    right: 14.8%;
+    text-align: left;
+}
+
+.text3
+{
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    color: #1a1a1a;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 47%;
+    bottom: 0;
+    left: 0;
+    right: 34%;
+    text-align: left;
+    line-height: 150%;
+}
+
+.aeiou
+{
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1280px;
+    height: 720px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
